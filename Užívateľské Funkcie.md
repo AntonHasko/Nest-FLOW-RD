@@ -4,20 +4,20 @@
 ON/OFF
 
 ## 2.0 Režim vetrania
-1. Privádzanie vzduchu
-2. Odvádzanie vzduchu
-3. Rekuperácia tepla  
+2.1 Privádzanie vzduchu
+2.2 Odvádzanie vzduchu
+2.3 Rekuperácia tepla  
    Rekuperácia sa dosiahne striedaním smeru otáčanie ventilátora podľa časovanie na základe zvolenej tabuľky a parametrov
 
 ## 3.0 Objem vetrania (otáčky ventilátora)  
-1. Nočný režim  
+3.1 Nočný režim  
 Táto funkcia blokuje ochranné systémové funkcie
 Ak bola táto funkcia aktivovaná užívateľom sama sa vypne po 10 hodinách, aby bolo možné v prípade potreby vykonať ochranné systémové funkcie. 
-2. Nízke
-3. Sterdné
-4. Vysoké
-5. BOOST
-6. *Odvlhčovanie* (nevie užívateľ aktivovať)
+3.2 Nízke
+3.3 Sterdné
+3.4 Vysoké
+3.5 BOOST
+3.6 *Odvlhčovanie* (nevie užívateľ aktivovať)
 
 ## 4.0 Zlúčenie jednotiek
 Ak sa v jednej miestnosti nachádza viac jednotiek je potrené ich zlúčiť pod spoločné ovládanie.  
