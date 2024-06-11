@@ -40,10 +40,10 @@ Ak je aktivovaný nočný režim cez túto funkciu (nebol zvolení užívateľom
 Funkcia nebráni užívateľovi zmeniť režim
 
 ## Odvlhčovanie  
-blokovanie funkcie: 1 aktívny nočný režim
-Ak hodnota relatívnej vlhkosti stupne nad ... aktivuje sa Objem vetrania 6. Odvlhčovanie
-Ak užívateľ zmení Objem vetrania funkcia sa vypne do najbližšieho reštartu. 
-V jarnej a letnej prevádzke je táto funkcia vypnutá
+blokovanie funkcie: 1 aktívny nočný režim  
+Ak hodnota relatívnej vlhkosti stupne nad ... aktivuje sa Objem vetrania 6. Odvlhčovanie  
+Ak užívateľ zmení Objem vetrania funkcia sa vypne do najbližšieho reštartu.  
+V jarnej a letnej prevádzke je táto funkcia vypnutá.  
 Ročné obdobie možno zistiť na základe teploty privádzaného vzduchu alebo prostredníctvom internetu a polohy zaregistrovanej jednotky.  Teplota sa ustáli najskôr po x sekundách privádzaného vzduchu. 
 
 ## Riadenie kvality vzduchu
