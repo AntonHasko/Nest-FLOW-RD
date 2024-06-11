@@ -10,7 +10,7 @@ ON/OFF
    Rekuperácia sa dosiahne striedaním smeru otáčanie ventilátora podľa časovanie na základe zvolenej tabuľky a parametrov
 
 ## Objem vetrania (otáčky ventilátora)  
-1. Nočný režim
+1. Nočný režim 
 2. Nízke
 3. Sterdné
 4. Vysoké
@@ -32,7 +32,7 @@ Maximálny počet zlúčených jednotiek je 8.
 Režim vetranie - 3. rekuperácia tepla sa v prípade zlúčených jednotiek riadi na základe tabuľky B
 
 ## Automatický nočný režim
-...
+Ak nameraná hodnota zo svetelného senzora klesne pod systémovú hodnotu, aktivuje sa **Nočný režim**
 ## Odvlhčovanie
 ...
 ## Riadenie kvality vzduchu
