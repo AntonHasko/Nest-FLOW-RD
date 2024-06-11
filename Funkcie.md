@@ -1,15 +1,15 @@
 # Užívateľské funkcie  
 
-## Stav 
+## 1.0 Stav 
 ON/OFF
 
-## Režim vetrania
+## 2.0 Režim vetrania
 1. Privádzanie vzduchu
 2. Odvádzanie vzduchu
 3. Rekuperácia tepla  
    Rekuperácia sa dosiahne striedaním smeru otáčanie ventilátora podľa časovanie na základe zvolenej tabuľky a parametrov
 
-## Objem vetrania (otáčky ventilátora)  
+## 3.0 Objem vetrania (otáčky ventilátora)  
 1. Nočný režim  
 Táto funkcia blokuje ochranné systémové funkcie
 Ak bola táto funkcia aktivovaná užívateľom sama sa vypne po 10 hodinách, aby bolo možné v prípade potreby vykonať ochranné systémové funkcie. 
@@ -19,7 +19,7 @@ Ak bola táto funkcia aktivovaná užívateľom sama sa vypne po 10 hodinách, a
 5. BOOST
 6. *Odvlhčovanie* (nevie užívateľ aktivovať)
 
-## Zlúčenie jednotiek
+## 4.0 Zlúčenie jednotiek
 Ak sa v jednej miestnosti nachádza viac jednotiek je potrené ich zlúčiť pod spoločné ovládanie.  
 Maximálny počet zlúčených jednotiek je 8. 
 
@@ -34,18 +34,18 @@ Maximálny počet zlúčených jednotiek je 8.
 ### Prevádzkové zmeny zlúčených jednotiek  
 Režim vetranie - 3. rekuperácia tepla sa v prípade zlúčených jednotiek riadi na základe tabuľky B
 
-## Automatický nočný režim
+## 5.0 Automatický nočný režim
 Ak nameraná hodnota zo svetelného senzora klesne pod systémovú hodnotu, aktivuje sa **Nočný režim**
 Ak je aktivovaný nočný režim cez túto funkciu (nebol zvolení užívateľom), zotrvá v nej 10 hodín alebo pokiaľ hodnota svetelného senzora nestúpne nad hodnotu ...
 Funkcia nebráni užívateľovi zmeniť režim
 
-## Odvlhčovanie  
+## 6.0 Odvlhčovanie  
 blokovanie funkcie: 1 aktívny nočný režim  
 Ak hodnota relatívnej vlhkosti stupne nad ... aktivuje sa Objem vetrania 6. Odvlhčovanie  
 Ak užívateľ zmení Objem vetrania funkcia sa vypne do najbližšieho reštartu.  
 V jarnej a letnej prevádzke je táto funkcia vypnutá.  
 Ročné obdobie možno zistiť na základe teploty privádzaného vzduchu alebo prostredníctvom internetu a polohy zaregistrovanej jednotky.  Teplota sa ustáli najskôr po x sekundách privádzaného vzduchu. 
 
-## Riadenie kvality vzduchu
+## 7.0 Riadenie kvality vzduchu
 ...
-## Prevádzkový kalendár
+## 8.0 Prevádzkový kalendár
