@@ -29,5 +29,6 @@ zmení stav z "3.4 Vysoké" alebo "3.5 BOOST" na "3.4 Vysoké" na dobu 1 minúty
 
 
 ### 2.3 Upchatý filter
-
+Nasadenie tejto funkcie zatiaľ odložíme. Príde až po vytvorení APP...
 ## 3. Servo klapka
+Ak je stav "1.0 Stav" v režime OFF hodnota klapky 0%, else 100%
